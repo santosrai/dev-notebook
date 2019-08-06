@@ -6,9 +6,9 @@ const config = {
 	},
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"logoLink": "#",
+		"title": "Dev Git Notebook",
+		"githubUrl": "https://github.com/Gitsanto/gatsby-gitbook-starter",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -21,7 +21,7 @@ const config = {
     		"/codeblock"
 		],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "Gitsanto", "link": "https://gitsanto.github.io"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
