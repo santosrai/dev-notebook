@@ -1,6 +1,6 @@
 # dev-notebook
 
-This is my libarary of coding.
+This is my library of coding.
 
 
 Learn to make this type of website with this starter:
