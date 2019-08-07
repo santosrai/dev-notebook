@@ -1,26 +1,34 @@
 ---
 title: "Getting Start with VBA"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "Getting Start with vba"
+metaDescription: "Learning VBA"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+VBA stands for 'Visual Basic for Application'. It helps to make custom feature 
+on existed office application. So it is very powerful programming language.
+It is more efficient and effective when it comes in automation and repeative tasks.
 
-```javascript
-import React from 'react';
+## Starting With VBA editor
+    To start VBA coding, we need to enable Developer tab(which is not enabled by default).
+        1. Open your any office application like excel
+        2. Go to file tab, choose Options to open
+        3. Choose Customize Ribbon
+        4. select the Developer checkbox and Click Ok
+    After enabling Developer mode, then you can find on application tab.    
+
+
+#### Start with examples
+1. Right Click on Project folder
+2. Insert Module (It will generate module with default name module1)
+3. Copy the following code and paste on editor
 ```
-
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
+Public Sub Test()
+    MsgBox "Hello World!"
+End Sub
 ```
+4. Run code by clicking run button of menu
 
-## Live Editing example
+__Everytime saving file vanishing module?__
+*Note : If you want to save the module, you have to save it with macro enabled extention.*
 
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+
