@@ -9,12 +9,12 @@ on existed office application. So it is very powerful programming language.
 It is more efficient and effective when it comes in automation and repeative tasks.
 
 ## Starting With VBA editor
-    To start VBA coding, we need to enable Developer tab(which is not enabled by default).
-        1. Open your any office application like excel
-        2. Go to file tab, choose Options to open
-        3. Choose Customize Ribbon
-        4. select the Developer checkbox and Click Ok
-    After enabling Developer mode, then you can find on application tab.    
+To start VBA coding, we need to enable Developer tab(which is not enabled by default).
+    1. Open your any office application like excel
+    2. Go to file tab, choose Options to open
+    3. Choose Customize Ribbon
+    4. select the Developer checkbox and Click Ok
+After enabling Developer mode, then you can find on application tab.    
 
 
 #### Start with examples
