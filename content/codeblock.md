@@ -1,26 +1,11 @@
 ---
-title: "VBA Course"
+title: "VBA Learning Course"
 metaTitle: "Learning VBA"
 metaDescription: "Learning VBA"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+### VBA Learning Course
 
-```javascript
-import React from 'react';
-```
 
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+<center>This is VBA course. I tried to include all necessary information for VBA coding in this course.
+</center>
