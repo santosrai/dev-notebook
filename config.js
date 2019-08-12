@@ -2,7 +2,7 @@ const config = {
 	"gatsby": {
 		"pathPrefix": "/",
 		"siteUrl": "https://gitsanto.github.io",
-		"gaTrackingId": null
+		"gaTrackingId": "UA-145466832-1"
 	},
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
