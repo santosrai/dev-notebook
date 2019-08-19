@@ -11,9 +11,10 @@ Lets see variables in VBA
 Dim myVar as Integer
 ```
  Lets divide it for detail
-     - Dim : Declare the variable
-     - myVar: Name of your custom variable
-     - Integer : Define variable datatype
+ 
+    - Dim : Declare the variable
+    - myVar: Name of your custom variable
+    - Integer : Define variable datatype
 
 Types of Variables on basis of datatype are:
 
