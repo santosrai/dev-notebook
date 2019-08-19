@@ -1,7 +1,7 @@
 ---
-title: "React Course"
-metaTitle: "Learning React"
-metaDescription: "Learning React"
+title: "Javascript Course"
+metaTitle: "Learning Javascript"
+metaDescription: "Learning Javascript"
 ---
 
 The following is a code block with JavaScript language syntax highlighting.
