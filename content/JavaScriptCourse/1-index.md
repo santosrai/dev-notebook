@@ -13,8 +13,8 @@ Hoisting is a JavaScript mechanism where variables and function declarations are
 ```
 
 #### Difference between parameters and arguments
-    - Parameters are variable defined in declaration of function
-    - Arguments are value passed  to that variable that gets into function
+- Parameters are variable defined in declaration of function
+- Arguments are value passed  to that variable that gets into function
 
 Lets take a simple example:
 ```javascript
