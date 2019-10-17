@@ -1,4 +1,3 @@
-
 ---
 title: "Reading HTML table using JavaScript"
 metaTitle: "Learning Javascript"
