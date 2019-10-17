@@ -1,7 +1,7 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://gitsanto.github.io",
+		"siteUrl": "https://santosrai.site/",
 		"gaTrackingId": "UA-145466832-1"
 	},
 	"header": {
