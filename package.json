@@ -33,6 +33,7 @@
     "is-absolute-url": "^2.1.0",
     "lodash.flatten": "^4.4.0",
     "lodash.startcase": "^4.4.0",
+    "netlify-cms": "^2.10.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-emotion": "^9.1.3",
