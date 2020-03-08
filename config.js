@@ -1,15 +1,15 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
-		"gaTrackingId": null,
+		"siteUrl": "https://santosrai.site",
+		"gaTrackingId": "UA-145466832-1",
 		"trailingSlash": false
 	},
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"logoLink": "#",
+		"title": "Dev Git Notebook",
+		"githubUrl": "https://github.com/Gitsanto/dev-notebook",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -26,26 +26,35 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction", // add trailing slash if enabled above
-    		"/codeblock"
+			"/VBACourse",
+			"/JavaScriptCourse",
+			"/ReactCourse"
+
 		],
     	"collapsedNav": [
-      		"/codeblock" // add trailing slash if enabled above
+			  "/VBACourse", // add trailing slash if enabled above
+			  "/JavaScriptCourse",
+			  "/GraphqlCourse",
+			  "/ReactCourse",
+			  "/UiPathCourse",
+			  "/AWSCourse",
+			
     	],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "Gitsanto", "link": "https://santosrai.site"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
+		"title": "Dev Git Notebook | Gitsanto",
 		"description": "Documentation built with mdx. Powering learn.hasura.io ",
 		"ogImage": null,
-		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
+		"docsLocation": "https://github.com/Gitsanto/dev-notebook/tree/master/content",
 		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
 	},
 	"pwa": {
-		"enabled": false, // disabling this will also remove the existing service worker.
+		"enabled": true, // disabling this will also remove the existing service worker.
 		"manifest": {
 			"name": "Gatsby Gitbook Starter",
 			"short_name": "GitbookStarter",
