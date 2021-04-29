@@ -1,0 +1,33 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "20:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: algoliasearch
+    versions:
+    - 4.8.3
+    - 4.8.4
+    - 4.8.5
+    - 4.8.6
+    - 4.9.0
+  - dependency-name: gatsby-remark-images
+    versions:
+    - 3.10.0
+    - 3.11.0
+  - dependency-name: gatsby-plugin-react-helmet
+    versions:
+    - 3.7.0
+    - 3.9.0
+  - dependency-name: gatsby-plugin-layout
+    versions:
+    - 1.9.0
+  - dependency-name: gatsby-plugin-sitemap
+    versions:
+    - 2.11.0
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
