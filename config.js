@@ -1,7 +1,7 @@
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://santosrai.site",
+		"siteUrl": "https://santosrai.github.io/dev-notebook",
 		"gaTrackingId": "UA-145466832-1",
 		"trailingSlash": false
 	},
@@ -41,7 +41,7 @@ const config = {
 			
     	],
 		"links": [
-			{ "text": "Gitsanto", "link": "https://santosrai.site"},
+			{ "text": "Gitsanto", "link": "https://santosrai.github.io/dev-notebook/"},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
